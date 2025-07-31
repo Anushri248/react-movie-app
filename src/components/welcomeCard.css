@@ -1,0 +1,33 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: auto;      /* allow content to grow */
+  overflow-x: hidden; /* only hide horizontal scroll */
+}
+
+/* Keep the video full-screen and behind content */
+.video-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  z-index: -1;
+  object-fit: cover;
+  opacity: 0.4;
+}
+
+/* Card stays on top */
+.card {
+  position: absolute;  /* so we can place it freely */
+  top:250px;           /* adjust top distance */
+  right: 50px;         /* adjust right distance */
+ 
+  z-index: 2;           /* above the video */
+  background: none;     /* remove background */
+  box-shadow: none;     /* remove any shadow */
+  color: white;
+  padding: 1.5rem;
+  max-width: 800px;
+  text-align: left;     /* optional: align text left */
+}

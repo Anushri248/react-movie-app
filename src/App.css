@@ -1,0 +1,65 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+ 
+}
+
+/* .container {
+  max-width: 120px;
+  margin: 0 auto;
+  padding: 2rem;
+
+}
+
+.card{
+  max-width: 180px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: rgb(255, 255, 255);
+} */
+
+
+/* Full page layout fix */
+/* 
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.movie-card {
+  flex: 1 1 calc(33.33% - 20px); /* 3 cards per row, minus gap 
+  max-width: 380px;
+  height: 500px;
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.05);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+} */
+
+
+/* Poster Styling */
+.movie-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  
+  object-fit: cover;
+}
+
+.content {
+  padding: 2rem;
+  margin-top: 50vh; /* Push content below video */
+ 
+  z-index: 1;
+  position: relative;
+}

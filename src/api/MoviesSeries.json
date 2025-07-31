@@ -1,0 +1,279 @@
+[
+  {
+    "id": 1,
+    "name": "Bommarillu",
+    "img_url": "http://localhost:5173/assets/bom.jpeg",
+    "summary": "A young man struggles to find his independence while dealing with an overbearing father. When he meets a spirited woman, she helps him rediscover himself and follow his dreams.",
+    "rating": 8.2,
+    "genre": "Romance, Drama",
+    "cast": [
+      "Siddharth",
+      ", Genelia D'Souza"
+    ],
+    "year": 2006,
+    "watch": "https://youtu.be/cbeSogPPrYA?si=GXwBHU-AMOx_g5kf"
+  },
+  
+    {
+    "id": 2,
+    "name": "Murari",
+    "img_url": "http://localhost:5173/assets/murari.jpg",
+    "summary": "A young man from a cursed royal family must confront his fate and break a deadly generational curse to protect his loved ones and marry the woman he loves.",
+    "rating": 8.1,
+    "genre": "Drama, Fantasy",
+    "cast": [
+      "Mahesh Babu",
+      ", Sonali Bendre"
+    ],
+    "year": 2001,
+    "watch": "https://www.youtube.com/watch?v=xDhZts_jGso"
+  },
+  {
+    "id": 3,
+    "name": "Nuvvu Naaku Nachav",
+    "img_url": "http://localhost:5173/assets/nuvu_naku.jpeg",
+    "summary": "A cheerful young man moves into his friend’s house and bonds with the family, only to unexpectedly fall in love with the daughter — who is already engaged to someone else.",
+    "rating": 7.8,
+    "genre": "Comedy, Drama",
+    "cast": [
+      "Venkatesh",
+      ", Aarthi Agarwal"
+    ],
+    "year": 2001,
+    "watch": "https://www.hotstar.com/in/movies/nuvvu-naaku-nachav/1260009879"
+  },
+  {
+    "id": 4,
+    "name": "Varsham",
+    "img_url": "http://localhost:5173/assets/varsham.jpg",
+    "summary": "A love story between a passionate young man and a vibrant girl is disrupted by a powerful villain who also desires her. Their love is tested by fate and threats.",
+    "rating": 7.2,
+    "genre": "Romantic Action",
+    "cast": [
+      "Prabhas",
+      ", Trisha"
+    ],
+    "year": 2004,
+    "watch": "https://www.youtube.com/watch?v=JWhuA9OKBG8"
+  },
+  {
+    "id": 5,
+    "name": "Kaleja",
+    "img_url": "http://localhost:5173/assets/kaleja.jpg",
+    "rating": 9.2,
+    "summary": "A carefree cab driver turns into an unlikely savior for a drought-hit village after discovering his destiny to fight against corporate greed and corruption.",
+    "genre": "Action, Comedy",
+    "cast": [
+      "Mahesh Babu",
+      ", Anushka Shetty"
+    ],
+    "year": 2010,
+    "watch": "https://www.youtube.com/watch?v=KkFZ6z8eJvM"
+  },
+{
+    "id": 6,
+    "name": "Fidaa",
+    "img_url": "http://localhost:5173/assets/fid.jpg",
+    "summary": "A US-based NRI falls in love with a strong, independent girl from a small Indian village. Their cultural differences test their relationship as they try to find common ground.",
+    "rating": 8.5,
+    "genre": "Romance",
+    "cast": [
+      "Varun Tej",
+      ", Sai Pallavi"
+    ],
+    "year": 2017,
+    "watch": "https://www.primevideo.com/detail/0OJ3X2HBRWQA4EQMOL1O0POQOE/ref=atv_dp_share_cu_r"
+  },
+  {
+    "id": 7,
+    "name": "Ye Maaya Chesave",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/8/81/Ye_Maaya_Chesave.jpg",
+    "summary": " An aspiring filmmaker falls deeply in love with a conservative Christian girl. Their love faces challenges due to religious and emotional conflicts.",
+    "rating": 7.6,
+    "genre": "Romance, Drama",
+    "cast": [
+      "Naga Chaitanya",
+      ", Samantha"
+    ],
+    "year": 2010,
+    "watch": "https://www.youtube.com/watch?v=Soa9zX94UO8"
+  },
+  {
+    "id": 8,
+    "name": "Brindavanam",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Brindavanam_poster.jpg",
+    "summary": " To help his girlfriend, a rich city guy pretends to be her lover in a troubled village family. Things take a twist when he ends up solving age-old feuds and capturing hearts.",
+    "rating": 8.8,
+    "genre": "Action, Romance",
+    "cast": [
+      "Jr. NTR",
+      " , Kajal Aggarwal",
+      " , Samantha"
+    ],
+    "year": 2010,
+    "watch": "https://www.youtube.com/watch?v=t7SLuHaD3DE"
+  },
+  {
+    "id": 9,
+    "name": "Arya 2",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/Arya_2_Poster.jpg",
+    "summary": " A mentally unstable, obsessive lover creates chaos in the life of his childhood friend and her love interest, all while claiming to act out of selfless love.",
+    "rating": 7.4,
+    "genre": "Romantic Action",
+    "cast": [
+      "Allu Arjun",
+      ", Kajal Aggarwal"
+    ],
+    "year": 2009,
+    "watch": "https://www.youtube.com/watch?v=cPXltD3vOLY"
+  },
+  {
+    "id": 10,
+    "name": "Gamyam",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/Gamyam.jpg",
+    "summary": "An arrogant rich man goes on a journey to find his lost love and ends up discovering life, humanity, and friendship through an unexpected bond with a carefree biker.",
+    "rating": 8.5,
+    "genre": "Drama, Adventure",
+    "cast": [
+      "Sharwanand",
+      ", Allari Naresh"
+    ],
+    "year": 2008,
+    "watch": "https://www.youtube.com/watch?v=jtuUalJ-LuU"
+  },
+  {
+    "id": 11,
+    "name": "Indra",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Indra_film.jpg",
+    "summary": "A powerful village leader sacrifices his life and happiness for the welfare of his people and seeks justice for his family.",
+    "rating": 8.0,
+    "genre": "Action, Drama",
+    "cast": [
+      "Chiranjeevi",
+      ", Sonali Bendre",
+      ", Aarti Agarwal"
+    ],
+    "year": 2002,
+    "watch": "https://www.youtube.com/watch?v=Xj7n2HMa4hA"
+  },
+  {
+    "id": 12,
+    "name": "Tagore",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/Tagore_film.jpg",
+    "summary": "A professor forms a vigilante group to fight corruption in the society and government systems.",
+    "rating": 8.2,
+    "genre": "Action, Thriller",
+    "cast": [
+      "Chiranjeevi",
+      ", Shriya Saran",
+      ", Jyothika"
+    ],
+    "year": 2003,
+    "watch": "https://www.youtube.com/watch?v=jjRxpN5KMBQ"
+  },
+  {
+    "id": 13,
+    "name": "Arya",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Arya_Poster.jpg",
+    "summary": "A free-spirited guy falls in love with a girl who is already in a relationship, and he sets out to win her heart by staying true to himself.",
+    "rating": 8.1,
+    "genre": "Romance, Drama",
+    "cast": [
+      "Allu Arjun",
+      ", Anuradha Mehta",
+      ", Siva Balaji"
+    ],
+    "year": 2004,
+    "watch": "https://www.youtube.com/watch?v=3Uo_2-0G1HE"
+  },
+  {
+    "id": 14,
+    "name": "Athadu",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Athadu_film.jpg",
+    "summary": "A professional assassin is forced to take the identity of a dead man to escape from the law, leading to a journey of emotional discovery.",
+    "rating": 8.4,
+    "genre": "Action, Thriller",
+    "cast": [
+      "Mahesh Babu",
+      ", Trisha Krishnan",
+      ", Sonu Sood"
+    ],
+    "year": 2005,
+    "watch": "https://www.youtube.com/watch?v=jW4tKcX_tuo"
+  },
+  {
+    "id": 15,
+    "name": "Pokiri",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Pokiri_Poster.jpg",
+    "summary": "A ruthless undercover cop infiltrates the underworld and eliminates gangsters from within, while hiding his real identity.",
+    "rating": 8.3,
+    "genre": "Action, Crime",
+    "cast": [
+      "Mahesh Babu",
+      ", Ileana D'Cruz",
+      ", Prakash Raj"
+    ],
+    "year": 2006,
+    "watch": "https://www.youtube.com/watch?v=uXt2d09HCeY"
+  },
+  {
+    "id": 16,
+    "name": "Desamuduru",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/Desamuduru.jpg",
+    "summary": "A TV journalist ends up in a remote Himalayan village where he falls for a mysterious woman with a troubled past.",
+    "rating": 7.5,
+    "genre": "Action, Romance",
+    "cast": [
+      "Allu Arjun",
+      ", Hansika Motwani",
+      ", Pradeep Rawat"
+    ],
+    "year": 2007,
+    "watch": "https://www.youtube.com/watch?v=1kctAABzD0A"
+  },
+  {
+    "id": 17,
+    "name": "Jalsa",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Jalsa.jpg",
+    "summary": "A rebellious college student with a mysterious past fights for justice while dealing with romantic twists.",
+    "rating": 7.8,
+    "genre": "Action, Comedy",
+    "cast": [
+      "Pawan Kalyan",
+      ", Ileana D'Cruz",
+      ", Mukesh Rishi"
+    ],
+    "year": 2008,
+    "watch": "https://www.youtube.com/watch?v=MVGM2pN_h-A"
+  },
+  {
+    "id": 18,
+    "name": "Arundhati",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/59/Arundhati_film.jpg",
+    "summary": "A woman discovers her past life and battles an evil sorcerer to save her family and fulfill her destiny.",
+    "rating": 8.0,
+    "genre": "Fantasy, Horror",
+    "cast": [
+      "Anushka Shetty",
+      ", Sonu Sood",
+      ", Sayaji Shinde"
+    ],
+    "year": 2009,
+    "watch": "https://www.youtube.com/watch?v=DFKoZyZ_eQw"
+  },
+  {
+    "id": 19,
+    "name": "Magadheera",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Magadheera_Poster.jpg",
+    "summary": "A brave warrior reincarnates to reclaim his lost love and defeat the evil prince who betrayed him in a past life.",
+    "rating": 8.1,
+    "genre": "Action, Fantasy",
+    "cast": [
+      "Ram Charan",
+      ", Kajal Aggarwal",
+      ", Dev Gill"
+    ],
+    "year": 2009,
+    "watch": "https://www.youtube.com/watch?v=mrZRURcb1cM"
+  }
+]
